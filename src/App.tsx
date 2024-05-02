@@ -1,11 +1,7 @@
 import Navbar from './components/Navbar.tsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
-
-function App() {
-
-
+export default function App() {
   return (
     <>
       <Navbar />
@@ -13,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+
