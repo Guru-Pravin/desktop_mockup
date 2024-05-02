@@ -7,7 +7,7 @@ const ApprovalsCard = () => {
 
 
     return (
-        <div className="w-100 m-3 shadow py-5">
+        <div className="w-100 shadow py-5">
             <div className="d-flex flex-row justify-content-between align-items-center">
                 <div className="d-flex flex-row justify-content-between align-items-center">
                    <img src={profileImage} alt="profile" style={{ height: "50px", width: "50px", borderRadius: "50%" }} className="me-2" />
