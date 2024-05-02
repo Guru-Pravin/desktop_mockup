@@ -4,6 +4,7 @@ import { FaBell } from "react-icons/fa";
 import { MdArrowDropDown } from "react-icons/md";
 
 
+
 export default function Navbar() {
     return (
         <div className="bg-white Regular shadow ps-3 pe-3 d-flex flex-row justify-content-between align-items-center">
