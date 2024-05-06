@@ -7,6 +7,8 @@ export default function App() {
   return (
     <>
       <Navbar />
+      <TabButtons numberOfApprovals={89} />
+      <FilterComponent />
       <Memos />
       <Approvaldetail />
     </>
