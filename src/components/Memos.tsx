@@ -9,7 +9,7 @@ const App: React.FC = () => {
 
     return (
         <div className="d-flex w-100">
-            <div className="p-4 " style={{ backgroundColor: "#0d0366" }}>
+            <div className="p-4" style={{ backgroundColor: "#0d0366" }}>
                 <div className="">
                     <CgMenuGridO className="text-white fs-3" />
                 </div>
